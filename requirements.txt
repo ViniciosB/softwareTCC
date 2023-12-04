@@ -141,7 +141,7 @@ tinycss2==1.1.1
 torch==1.13.1
 tornado==6.2
 tqdm==4.64.1
-traitlets
+traitensorboardtlets
 typing_extensions
 tzdata
 urllib3
